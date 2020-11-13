@@ -25,10 +25,29 @@ function change(index) {
     case 6:
       p.innerHTML =
         '<iframe width=100% height=100% src="./w04-tku60-js/div_tku60.html" />';
-      break;
-    case 7:
+      break;  
+      case 7:
       p.innerHTML =
-        '<iframe width=100% height=100% src="./w06-ms-clone/index.html" />';
+        '<iframe width=100% height=100% src="./w07-nav/nav.html" />';
       break;
-  }
+    case 8:
+      p.innerHTML =
+        '<iframe width=100% height=100% src="./w07-ms-clone/index.html" />';
+      break;
+      case 9:
+        p.innerHTML =
+          '<iframe width=100% height=100% src="./w08-school timetable/myclass_54.html" />';
+        break;
+
+        case 10:
+          p.innerHTML =
+            '<iframe width=100% height=100% src="./w09-resume/resume_54.html" />';
+          break;
+
+          case 11:
+            p.innerHTML =
+              '<iframe width=100% height=100% src="./w10-text/text.html" />';
+            break;
+    }
+   
 }

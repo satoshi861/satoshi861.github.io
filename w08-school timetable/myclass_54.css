@@ -1,0 +1,33 @@
+.name {
+  background-color: darkorchid;
+  color: white;
+  font-size: 10px;
+}
+
+.weekday {
+  background-color: blue;
+  font-size: 18px;
+}
+
+.number {
+  background-color: orange;
+  font-size: 18px;
+}
+
+.time {
+  background-color: rgb(204, 176, 16);
+  font-size: 18px;
+}
+
+.tableName {
+  background-color: rgb(69, 69, 190);
+  font-size: 18px;
+}
+.content {
+  background-color: green;
+  font-size: 18px;
+}
+
+.table {
+  border: 2;
+}
